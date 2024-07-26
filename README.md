@@ -17,4 +17,4 @@ Type 'left' or 'right': left
 You've reached a river. Do you swim across or wait for a boat?
 Type 'swim' or 'wait': wait
 ...
-Congratulations! You found the treasure
+Congratulations! You found the treasure!
